@@ -1,0 +1,21 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "code-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start:v1": "babel-node index_v1.js",
+    "start:v2": "babel-node index_v2.js"
+  },
+  "author": "Facundo La Rocca",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-jest": "^20.0.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "jest": "^20.0.1"
+  }
+}
