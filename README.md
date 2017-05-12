@@ -26,7 +26,7 @@
 
   The question I found are related to probability and how to calculate it.
   
-  1. Do two clients have the same probability if they industries are different?
+  1. Do two clients have the same probability if their industries are different?
   2. What is more important? NumberOfRecommendations over NumberOfConnections or vice versa?
   3. Does the role impact in how a probability is calculated?
   4. What happend if two clients have the same probability? One of them in the position 100, the other one in the position 101, which one should be priority?
