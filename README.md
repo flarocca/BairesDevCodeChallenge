@@ -34,7 +34,7 @@
 
 # Aproaches
 
-  1. Since It is not clear how to calculate **The probability**, I decided to design a model which allows us to delegate how to calculate the probability.
+  1. Since It is not clear how to calculate **The probability**, I decided to design a model which allows us to delegate how to calculate it.
   2. Despite the statement asks to extract first 100 (sorted from more probables to less probable), I decided to parametrize the number of rows we want to extract.
   3. I created a test-suite in order to ensure consistency.
   4. I also included the ability to filter clients, for example, in the case the probability could not be calculated due some information missed.
