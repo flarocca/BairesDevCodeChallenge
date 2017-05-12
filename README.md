@@ -1,5 +1,5 @@
 
-# How to run test
+# How to run tests
 
   1. Ensure you have installed NodeJS, visit [the official site](https://nodejs.org/en/download/) to get instruccions
      about how to install it.
