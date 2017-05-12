@@ -53,7 +53,7 @@
 
   2. **The second implementation (v2)**, memory optimization processing line by line. I reads line by line, analizes each row and insert the result only if it must be inserted.
     Advantages:
-      * It avoids `stack overflow exceptions` and `out of memory exceptions` due to we know before start how many records we are going to store in memory
+      * It avoids `out of memory exceptions` due to we know before start how many records we are going to store in memory
       * Memory concuption is optimized
     Disadvantages:
       * The file is locked during the transformation
